@@ -27,7 +27,6 @@ uvicorn==0.22.0
 uvloop==0.17.0
 watchfiles==0.19.0
 websockets==11.0.3
-telegram
-telegram-import
-telegram.ext
-telegram-export
+telegram==0.0.1
+telethon==1.4.3
+telegram-export==1.8.2
