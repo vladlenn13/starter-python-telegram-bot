@@ -30,3 +30,4 @@ websockets==11.0.3
 telegram==0.0.1
 telethon==1.4.3
 telegram-export==1.8.2
+python-telegram-bot==13.15
